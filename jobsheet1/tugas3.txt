@@ -1,0 +1,14 @@
+/**
+ * Latihan24
+ */
+public class Latihan24 {
+
+    public static void main(String[] args) {
+        System.out.println("***** IDENTITAS DIRI *****");
+        System.out.println("Nama        :Rocky Alessandro");
+        System.out.println("Absen       :24");
+        System.out.println("Kelas       :TI-1F");
+        System.out.println("Prodi       :Teknik Informatika");
+        System.out.println("Jurusan     :Teknologi Informasi");
+    }
+}

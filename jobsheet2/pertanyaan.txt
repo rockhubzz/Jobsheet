@@ -1,0 +1,13 @@
+pertanyaan 1
+1. git commit: menyimpan perubahan pada repository secara lokal
+   git push: menyimpan perubahan pada repository kepada server git
+
+2. tidak bisa, karena pembuatan repository harus melalui web github
+
+pertanyaan 2
+1. untuk mengirim permintaan untuk merge branches sehingga mendapat persetujuan dari collaborator lainnya jika ada
+2. agar saat kita ingin melakukan perubahan pada kode dan terdapat error, code main tidak terpengaruh dengan error saat development
+
+pertanyaan 3
+1. buka tab boards lalu klik invite workspace members lalu masukkan email member yang akan diundang atau undang member dengan create link
+2. tidak, karena untuk membuat list diperlukan board
