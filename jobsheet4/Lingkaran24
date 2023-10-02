@@ -1,0 +1,13 @@
+public class Lingkaran24{
+    public static void main(String[] args) {
+        int r;
+        double keliling, luas;
+        Scanner input = new Scanner(System.in);
+        System.out.println("Masukkan jari-jari lingkaran (cm): ");
+        r = input.nextInt();
+        keliling = 2*3.14*r;
+        luas = 3.14*r*r
+        System.out.println("Keliling: " + keliling + " cm");
+        System.out.println("Luas: " + luas + " cm");
+    }
+}

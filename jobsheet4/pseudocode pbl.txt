@@ -1,0 +1,28 @@
+Algoritma: KompenMahasiswa/Alpaku
+{dibaca jumlah alpa dan hitung tugas kompen}
+result, smt1 = 3, smt2 = 1, smt3 = 8, smt4 = 3, smt5 = 6 : int
+subChoice, subsubChoice2 : byte
+
+Deskripsi:
+1. switch subChoice
+2. print "=== Alpaku ==="
+3. print "1. Semester 1"
+4. print "2. Semester 2"
+5. print "3. Semester 3"
+6. print "4. Semester 4"
+7. print "5. Semester 5"
+8. print "6. Rekap Tugas Kompen"
+9. read subChoice
+10. case subChoice
+	1 = print "Jumlah Alpa Semester 1: " +smt1 "jam"
+	   print "Total jam tugas kompen Semester 1: " +smt1*10 "jam"
+	2 = print "Jumlah Alpa Semester 2: " +smt2 "jam"
+	   print "Total jam tugas kompen Semester 1: " +smt2*8 "jam"
+	3 = print "Jumlah Alpa Semester 3: " +smt3 "jam"
+	   print "Total jam tugas kompen Semester 3: " +smt3*6 "jam"
+	4 = print "Jumlah Alpa Semester 4: " +smt4 "jam"
+	   print "Total jam tugas kompen Semester 4: " +smt4*4 "jam"
+	5 = print "Jumlah Alpa Semester 5: " +smt5 "jam"
+	   print "Total jam tugas kompen Semester 5: " +smt5*2 "jam"
+	6 = result = (smt1 * 10) + (smt2 * 8) + (smt3 * 6) + (smt4 * 4) + (smt5 * 2)
+	    print "Total Tugas kompen yang harus diselesaikan: " +result " jam"
